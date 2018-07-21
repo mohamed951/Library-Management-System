@@ -1,3 +1,4 @@
 # Library-Management-System
 
-Desktop application helps in managing the Library ,It has alot of features as adding Customer info,Books info including the number in the storage,buying process,showing reports.
+Applying complete software development life cycle with documention and implementation help the librararian to add, delete and update books information and records buy, borrow transaction made by client saving all the important details of it.
+Developed with Java and Sql Server as a database.
